@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Giselle Oliveira! 👋
 
-<!--
-**pythanx/pythanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** & **Bacharelado em Educação Física**
+- 🔭 Atualmente desenvolvendo um **sistema de catálogo de streaming** 🎬
+- 🌱 Aprofundando meus conhecimentos em **Python**
+- 💬 Pergunte-me sobre **Programação, Musculação e Fisiculturismo** 💪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 📫 Conecte-se Comigo
+*Sinta-se à vontade para entrar em contato ou acompanhar meu trabalho:*
+
+[![LinkedIn](https://shields.io)](linkedin.com/in/gioliveirax/)
+[![E-mail](https://shields.io)](mailto:adm-giselleoliveira@outlook.com)
+
