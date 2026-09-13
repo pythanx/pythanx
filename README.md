@@ -14,6 +14,6 @@
 ### 📫 Conecte-se Comigo
 *Sinta-se à vontade para entrar em contato ou acompanhar meu trabalho:*
 
-[![LinkedIn](https://shields.io)](linkedin.com/in/gioliveirax/)
-[![E-mail](https://shields.io)](mailto:adm-giselleoliveira@outlook.com)
+[<img src="https://shields.io" alt="LinkedIn" />](https://shields.io)](linkedin.com/in/gioliveirax/)
+[<img src="https://shields.io" alt="E-mail" />](mailto:adm-giselleoliveira@outlook.com)
 
